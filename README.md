@@ -6,8 +6,6 @@ Powerful Software
 
 ### Welcome to the repository
 
-Feel free to access [my portfolio] (http://portfolio.shaynemeyer.com).
-
 > ## Headline
 > 
 > This is a sentence
